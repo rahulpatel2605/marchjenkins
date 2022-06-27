@@ -1,4 +1,4 @@
 FROM centos
 
-maintainer="admin@example1.com"
+maintainer= "rahul"
 EXPOSE 80
